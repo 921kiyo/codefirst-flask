@@ -13,7 +13,7 @@ app = Flask("MyApp")
 # For decorators, see http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 @app.route("/")
 def hello():
-    return "Hello World"
+    return render_template("hello.html")
 
 
 # @app.route("/profile")
