@@ -10,6 +10,13 @@ Other popular web frameworks are [Django](https://github.com/django/django) or [
 - [Pinterest](https://www.pinterest.co.uk/)
 
 and [many more](https://stackshare.io/flask/in-stacks)!!
+
+## How to import css and js files
+
+Some of you asked me how to import css and js files so that you can add Flask to your front-end project you created in the previous course.
+
+I added a code in [here]() and [here]() for importing css and js. I hope this helps.
+
 ## External free resources
 Here are some of my favorite resources.
 - [Decorators](https://www.programiz.com/python-programming/decorator) (More details of how decorators work)
