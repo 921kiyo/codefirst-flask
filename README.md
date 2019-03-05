@@ -15,7 +15,7 @@ and [many more](https://stackshare.io/flask/in-stacks)!!
 
 Some of you asked me how to import css and js files so that you can add Flask to your front-end project you created in the previous course.
 
-I added a code in [here]() and [here]() for importing css and js. I hope this helps.
+I added a code in [here](https://github.com/921kiyo/codefirst-flask/blob/master/input_form/templates/hello.html#L4) and [here](https://github.com/921kiyo/codefirst-flask/blob/master/input_form/templates/hello.html#L15) for importing css and js. I hope this helps.
 
 ## External free resources
 Here are some of my favorite resources.
